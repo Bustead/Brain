@@ -1,0 +1,4 @@
+#connect to Applie iphone
+- platform: ios
+  name: iOSAPP
+  target: 'f24ae987-3654-33ae-9979-85c6f64217b6'
